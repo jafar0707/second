@@ -1,0 +1,22 @@
+ 
+  th{
+    background-color: yellow;
+    ;
+}
+td{
+    background-color: red;width: 200px;color: white;font-size: 20px;height: 50px;
+}
+.one{
+    background-color: green;
+}
+caption{
+    background-color: aqua;
+}
+table,th,td,.two,.one{
+    border: 1px solid black; text-align: center;
+}
+
+.two{
+    color: black;background-color: white;width: 75px;height: 50px;
+}
+
